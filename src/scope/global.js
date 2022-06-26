@@ -20,7 +20,7 @@ function bestFruit() {
 bestFruit();
 
 function contries() {
-    country = 'Colombia'; //
+    country = 'Colombia'; // global
     console.log(country);
 }
 
